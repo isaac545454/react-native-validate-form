@@ -9,12 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@hookform/resolvers": "^2.9.10",
     "expo": "~46.0.16",
     "expo-cli": "^6.0.8",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-hook-form": "^7.39.4",
-    "react-native": "0.69.6"
+    "react-native": "0.69.6",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
